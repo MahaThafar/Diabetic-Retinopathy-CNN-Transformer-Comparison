@@ -93,7 +93,9 @@ The exact TIMM model identifiers and complete experimental configuration are doc
 
 If you use this code in your research, please cite the associated article.
 
-Citation information will be added following publication.
+Thafar, M. A. (2026). Comparative Analysis of CNN and Transformer Models for Multi-Class Diabetic Retinopathy Grading Using Fundus Images.
+https://www.mdpi.com/2075-4418/16/17/2882#References
+
 
 ## License
 
